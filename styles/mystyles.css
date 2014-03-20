@@ -8,6 +8,7 @@ header.page {
     padding: 10px;
     border:1px solid #000;
     text-align:center;
+    background-color: (255,0,0,.5);
 }
 header.page h1:hover {
     color:#444444;
@@ -46,4 +47,5 @@ footer {
     border:1px solid #000;
     margin:10px;
     padding:10px;
+    background-color: (255,100,255,.75);
 }
