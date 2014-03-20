@@ -1,9 +1,13 @@
+
 #wrapper {
     width:800px;
     margin: 0 auto 0 auto;
     border: 1px solid #777;
     
 }
+
+
+
 header.page {
     margin:10px;
     padding: 10px;
@@ -11,12 +15,14 @@ header.page {
     text-align:center;
     background-color: rgba(255,0,0,.5);
 }
-header.page h1:hover {
-    color:#444444;
-}
+
+
+
 article, aside {
     float:left;
 }
+
+
 nav li {
     display:inline;
     padding:0;
