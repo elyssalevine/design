@@ -39,7 +39,7 @@ a:visited {
     text-decoration:none;
 }
 a:active {
-    color:rgb(0,0,0);
+    color:#aaa;
 }
 article {
     width:275px;
