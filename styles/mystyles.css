@@ -29,13 +29,7 @@ nav li {
     padding-right:20px;
 }
 
-a:hover {
-    color:#aaa;
-}
 
-a:active {
-    color:#aaa;
-}
 a:link {
     color:rgb(0,0,0);
 }
@@ -43,6 +37,14 @@ a:link {
 a:visited {
     color:rgb(0,0,0);
     text-decoration:none;
+}
+
+a:hover {
+    color:#aaa;
+}
+
+a:active {
+    color:#aaa;
 }
 
 article {
