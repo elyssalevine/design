@@ -13,7 +13,7 @@ header.page {
     padding: 10px;
     border:1px solid #000;
     text-align:center;
-    background-color: rgba(255,0,0,.5);
+    background-color: rgb(219,172,86);
 }
 
 
@@ -60,7 +60,7 @@ footer {
     border:1px solid #000;
     margin:10px;
     padding:10px;
-    background-color: rgba(255,100,255,.75);
+    background-color: rgb(222,89,89);
 }
 
 
