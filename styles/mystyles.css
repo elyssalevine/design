@@ -40,11 +40,11 @@ a:visited {
 }
 
 a:hover {
-    color:#aaa;
+    color:rgb(170,182,191);
 }
 
 a:active {
-    color:#aaa;
+    color: rgb(170,182,191);
 }
 
 article {
