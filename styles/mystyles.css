@@ -28,19 +28,23 @@ nav li {
     margin:0;
     padding-right:20px;
 }
-a:link {
-    color:rgb(0,0,0);
-}
+
 a:hover {
     color:#aaa;
 }
+
+a:active {
+    color:#aaa;
+}
+a:link {
+    color:rgb(0,0,0);
+}
+
 a:visited {
     color:rgb(0,0,0);
     text-decoration:none;
 }
-a:active {
-    color:#aaa;
-}
+
 article {
     width:275px;
     margin:10px;
