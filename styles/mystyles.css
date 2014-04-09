@@ -19,7 +19,7 @@ header.page {
 
 
 
-article {
+article,aside {
     float:left;
 }
 
@@ -58,7 +58,12 @@ article {
     background-color: rgb(240,172,86);
 }
 
-
+aside {
+    width:305px;
+    margin:10px;
+    border:1px solid #000;
+    background-color: rgb(240,172,86);
+}
 
 
 
