@@ -19,14 +19,14 @@ header.page {
 
 
 
-article {
+article,aside {
+    float:left;
     margin:10px;
     padding: 10px;
     border:1px solid #000;
     text-align:center;
     background-color: rgb(240,172,86);
 }
-
 
 
 nav li {
@@ -76,10 +76,10 @@ footer {
 		width: 94%;
 	}
 	article {
-		width: 94%;
+		width: 50%;
 	}
 	aside {
-		width: 28%;
+		width: 30%;
 	}
 
 }
@@ -89,7 +89,7 @@ footer {
 
 	article {
 		width: auto;
-		float: auto;
+		float: none;
 	}
     
 	aside {
@@ -110,6 +110,7 @@ footer {
 	}
 	aside {
 		display: none;
+
 	}
 
 }
