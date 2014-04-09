@@ -3,7 +3,8 @@
     margin: 0 auto 0 auto;
     border: 1px solid #777;
     background-image:url('https://drive.google.com/uc?id=0BwINOJ8hKYKQdGJNOEJva0c0bEk');
-    
+    font-size: 16px;
+    font-family: Tahoma;
 }
 
 
@@ -13,13 +14,18 @@ header.page {
     padding: 10px;
     border:1px solid #000;
     text-align:center;
-    background-color: rgb(240,172,86);
+    background-color: rgb(253,241,103);
 }
 
 
 
-article, aside {
+article {
     float:left;
+    margin:10px;
+    padding: 10px;
+    border:1px solid #000;
+    text-align:center;
+    background-color: rgb(240,172,86);
 }
 
 
@@ -109,6 +115,5 @@ footer {
 	}
 
 }
-
 
 
