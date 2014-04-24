@@ -1,4 +1,4 @@
-.container {
+#wrapper {
     width:960px;
     margin: 0 auto 0 auto;
     border: 1px solid #777;
@@ -80,7 +80,7 @@ footer {
 }
 
 
-/* 
+ 
 
 @media screen and (max-width: 960px) {
 	
@@ -99,36 +99,35 @@ footer {
 /* for 700px or less */
 
 
-@media screen and (min-width: 768px) {
+@media screen and (min-width: 700px) {
 
 	article {
 		width: auto;
-		float: left;
+		float: none;
 	}
     
 	aside {
 		width: auto;
-		float: left;
+		float: none;
 	}
 	
-	aside,article,footer {
-		width: 100%;
-
-
-	}
 
 }
 
 /* for 480px or less */
 
-/*
+
 @media screen and (max-width: 480px) {
 
 
-	aside,article,footer {
-		width: 100%;
-
-
+	header.page {
+		height: auto;
+	}
+	h1 {
+		font-size: 24px;
+	}
+	aside {
+		display: none;
 	}
 
 }
