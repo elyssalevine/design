@@ -98,37 +98,39 @@ footer {
 
 /* for 700px or less */
 
-/* 
-@media screen and (max-width: 700px) {
+
+@media screen and (min-width: 768px) {
 
 	article {
 		width: auto;
-		float: none;
+		float: left;
 	}
     
 	aside {
 		width: auto;
-		float: none;
+		float: left;
+	}
+	
+	aside,article,footer {
+		width: 100%;
+
+
 	}
 
 }
 
 /* for 480px or less */
 
-/* 
+/*
 @media screen and (max-width: 480px) {
 
-	header.page {
-		height: auto;
-	}
-	h1 {
-		font-size: 24px;
-	}
-	aside {
+
+	aside,article,footer {
+		width: 100%;
 
 
 	}
 
 }
 
-*/
+
