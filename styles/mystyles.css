@@ -80,7 +80,7 @@ footer {
 }
 
 
-
+/* 
 
 @media screen and (max-width: 960px) {
 	
@@ -97,6 +97,8 @@ footer {
 }
 
 /* for 700px or less */
+
+/* 
 @media screen and (max-width: 700px) {
 
 	article {
@@ -112,6 +114,8 @@ footer {
 }
 
 /* for 480px or less */
+
+/* 
 @media screen and (max-width: 480px) {
 
 	header.page {
@@ -127,4 +131,4 @@ footer {
 
 }
 
-
+*/
